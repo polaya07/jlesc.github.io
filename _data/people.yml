@@ -1750,6 +1750,15 @@ ogura_t:
   email: t-ogura@riken.jp
   homepage:
 
+olaya_p:
+  sur_name: Olaya Garcia
+  given_name: Paula
+  affiliation: utk
+  position:
+  topics:
+  email: polaya@vols.utk.edu
+  homepage: 
+
 olson_k:
   sur_name: Olson
   given_name: Kjellrun
@@ -2316,6 +2325,15 @@ silvi_g:
   topics:
   email: g.silvi@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/silvi_g.html?nn=362224
+  
+cainolores_s:
+  sur_name: Caino-Lores
+  given_name: Silvina
+  affiliation: utk
+  position:
+  topics:
+  email: scainolo@utk.edu
+  homepage: 
 
 simonin_m:
   sur_name: Simonin
